@@ -1,0 +1,42 @@
+[0.027s] Invoking command in '/home/amisha/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/amisha/ws_mobile/src/mobile_robot -DCMAKE_INSTALL_PREFIX=/home/amisha/ws_mobile/install/mobile_robot
+[0.200s] -- The C compiler identification is GNU 11.4.0
+[0.310s] -- The CXX compiler identification is GNU 11.4.0
+[0.320s] -- Detecting C compiler ABI info
+[0.416s] -- Detecting C compiler ABI info - done
+[0.422s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.422s] -- Detecting C compile features
+[0.424s] -- Detecting C compile features - done
+[0.427s] -- Detecting CXX compiler ABI info
+[0.559s] -- Detecting CXX compiler ABI info - done
+[0.565s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.565s] -- Detecting CXX compile features
+[0.566s] -- Detecting CXX compile features - done
+[0.576s] -- Found ament_cmake: 2.0.5 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.763s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.854s] -- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.948s] -- Added test 'lint_cmake' to check CMake code style
+[0.949s] -- Added test 'xmllint' to check XML markup files
+[0.951s] -- Configuring done
+[0.954s] -- Generating done
+[0.962s] -- Build files have been written to: /home/amisha/ws_mobile/build/mobile_robot
+[0.971s] Invoked command in '/home/amisha/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/amisha/ws_mobile/src/mobile_robot -DCMAKE_INSTALL_PREFIX=/home/amisha/ws_mobile/install/mobile_robot
+[0.972s] Invoking command in '/home/amisha/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/amisha/ws_mobile/build/mobile_robot -- -j2 -l2
+[1.022s] Invoked command in '/home/amisha/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/amisha/ws_mobile/build/mobile_robot -- -j2 -l2
+[1.093s] Invoking command in '/home/amisha/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/amisha/ws_mobile/build/mobile_robot
+[1.109s] -- Install configuration: ""
+[1.112s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+[1.112s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+[1.113s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+[1.113s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+[1.114s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/environment/path.sh
+[1.114s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/environment/path.dsv
+[1.115s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.bash
+[1.115s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.sh
+[1.115s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.zsh
+[1.115s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.dsv
+[1.115s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/package.dsv
+[1.116s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+[1.116s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+[1.116s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+[1.116s] -- Installing: /home/amisha/ws_mobile/install/mobile_robot/share/mobile_robot/package.xml
+[1.124s] Invoked command in '/home/amisha/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/amisha/ws_mobile/build/mobile_robot

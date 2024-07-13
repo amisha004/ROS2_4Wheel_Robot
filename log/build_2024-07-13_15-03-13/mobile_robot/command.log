@@ -1,0 +1,2 @@
+Invoking command in '/home/amisha/ws_mobile/build/mobile_robot': /usr/bin/cmake --build /home/amisha/ws_mobile/build/mobile_robot -- -j2 -l2
+Invoked command in '/home/amisha/ws_mobile/build/mobile_robot' returned '2': /usr/bin/cmake --build /home/amisha/ws_mobile/build/mobile_robot -- -j2 -l2
